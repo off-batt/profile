@@ -47,7 +47,7 @@ div.container {
   border: 5px solid white;
 }
 
-.btn {
+#btn {
   font-family: 'Slabo 27px', serif;
   background-color: #ff8307;
   border: none;
@@ -68,6 +68,10 @@ div.container {
 
 .scroll-big {
   font-size: 40px;
+}
+
+a:hover {
+  opacity: 0.5;
 }
 
 #sidebar {
