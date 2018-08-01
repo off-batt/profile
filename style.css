@@ -37,7 +37,7 @@ div.container {
   text-align: center;
   background-image: url("http://1.bp.blogspot.com/-2ViJHJj_0JU/VZ15A8LGvRI/AAAAAAAAHsY/wBzPptOYGhE/s1600/2014-04-23%2B18.43.372.jpg");
   background-size: cover;
-  padding: 100px;
+  padding: 60px;
   color: white;
   text-shadow: 1px 1px 5px black;
   }
@@ -48,19 +48,42 @@ div.container {
 }
 
 .btn {
-    background-color: #ff8307;
-    border: none;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    text-shadow: none;
-    border-radius: 4px;
+  font-family: 'Slabo 27px', serif;
+  background-color: #ff8307;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  text-shadow: none;
+  border-radius: 4px;
 }
 
 .social {
   font-size: 20px;
   color: white;
+}
+
+.scroll-big {
+  font-size: 40px;
+}
+
+#sidebar {
+    background-color: #384047;
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    width: 60PX;
+    text-align: center;
+}
+
+#page-content {
+  margin-left: 60px;
+}
+
+#footer {
+  padding: 80px;
 }
