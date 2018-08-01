@@ -68,6 +68,7 @@ div.container {
 
 .scroll-big {
   font-size: 40px;
+  scroll-behavior: smooth;
 }
 
 a:hover {
@@ -93,3 +94,5 @@ a:hover {
   margin-right: auto;
   margin-left: auto;
 }
+
+
