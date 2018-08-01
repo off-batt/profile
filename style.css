@@ -1,0 +1,66 @@
+body {
+  font-family: 'Open Sans Condensed', sans-serif;
+  background-color: rgb(230,230,230);
+  text-align: center;
+  margin:0px;
+}
+
+h1 {
+  font-family: 'Slabo 27px', serif;
+
+}
+
+p {
+  font-family: 'Slabo 27px', serif;
+}
+
+div.polaroid {
+  width: 50%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 25px;
+
+}
+
+div.container {
+  text-align: center;
+  padding: 10px 20px;
+}
+
+#text-align {
+  text-align: center;
+}
+
+#banner {
+  text-align: center;
+  background-image: url("http://1.bp.blogspot.com/-2ViJHJj_0JU/VZ15A8LGvRI/AAAAAAAAHsY/wBzPptOYGhE/s1600/2014-04-23%2B18.43.372.jpg");
+  background-size: cover;
+  padding: 100px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+  }
+
+.pic-circle {
+  border-radius: 50%;
+  border: 5px solid white;
+}
+
+.btn {
+    background-color: #ff8307;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    text-shadow: none;
+    border-radius: 4px;
+}
+
+.social {
+  font-size: 20px;
+  color: white;
+}
